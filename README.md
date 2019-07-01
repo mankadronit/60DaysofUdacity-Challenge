@@ -24,3 +24,11 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Completed Lesson 9, Video 6 - Encypted Deep Learning with Pytorch.
 - Learned **Probability** - *Dependence and Independence*, *Conditional Probability*
+
+### Day 5 - Monday, 1st July
+
+- Completed Lesson 9, Video 7 - Encrypted Deep Learning with Keras
+- Completed Lesson 9, Video 8 and 9 - Keystone Project Description and course conclusion.
+- Learned **Probability** - *Bayes Theorem*, *Random Variables*, *Continuous Distributions*
+
+- **Finally Completed the Course** 🦓 :fire:
