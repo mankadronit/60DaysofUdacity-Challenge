@@ -32,3 +32,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned **Probability** - *Bayes Theorem*, *Random Variables*, *Continuous Distributions*
 
 - **Finally Completed the Course** 🦓 :fire:
+
+### Day 6 - Tuesday, 2nd July
+
+- Read this article [Federated Learning for Medical Imaging](https://www.intel.ai/federated-learning-for-medical-imaging/#gs.mayzfj).
+- Learned *Statistical Hypothesis and Inference*
