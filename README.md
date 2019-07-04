@@ -42,3 +42,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Read an article on CNNs - [The Most Intuitive and Easiest Guide for Convolutional Neural Network](https://towardsdatascience.com/the-most-intuitive-and-easiest-guide-for-convolutional-neural-network-3607be47480)
 - Read PyTorch docs for the `torch.nn.Conv2d` and `torch.nn.MaxPool2d` layers.
+
+### Day 8 - Thursday, 4th July
+
+- Read more about *Statistical Hypothesis and Inference*
+- Read up on **Gradient Descent** - *Stochastic Gradient Descent*
