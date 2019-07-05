@@ -47,3 +47,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Read more about *Statistical Hypothesis and Inference*
 - Read up on **Gradient Descent** - *Stochastic Gradient Descent*
+
+### Day 9 - Friday, 5th July
+
+- Explored https://data.gov.in for public datasets.
+- Read about PyTorch data cleaning and data transformation pipelines.
+- Learned more about Gradient Descent.
