@@ -53,3 +53,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Explored https://data.gov.in for public datasets.
 - Read about PyTorch data cleaning and data transformation pipelines.
 - Learned more about Gradient Descent.
+
+### Day 10 - Saturday, 6th July
+
+- Learning Backpropogation.
