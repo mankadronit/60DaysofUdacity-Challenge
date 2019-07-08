@@ -57,3 +57,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ### Day 10 - Saturday, 6th July
 
 - Learning Backpropogation.
+
+### Day 11 - Monday, 8th July
+- **Missed a Day but now I'm back on track**
+- Completed Backpropogation. Practiced a lot by differentiating equations by hand.
+- Started learning how to scrape the web using _BeautifulSoup_.
