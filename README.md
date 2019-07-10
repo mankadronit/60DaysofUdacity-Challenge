@@ -68,7 +68,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started learning *Dimensionality Reduction*.
 
 ### Day 13 - Wednesday, 10th July
-- Played with the CO2 emiisions from Fossil Fuels dataset and gained a few insights. 
+- Played with the CO2 emissions from Fossil Fuels dataset and gained a few insights. 
 - Gained the intuition about the dataset by plotting various graphs.
 
     ![Countries](./assets/countries.png)
