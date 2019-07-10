@@ -66,3 +66,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ### Day 12 - Tuesday, 9th July
 - Started exploring the [CO2 emmissions from Fossil Fuels](https://datahub.io/core/co2-fossil-by-nation) dataset. Will understand the data for a few days then try forecasting, may even use encrypted deep learning to make things interesting.
 - Started learning *Dimensionality Reduction*.
+
+### Day 13 - Wednesday, 10th July
+- Played with the CO2 emiisions from Fossil Fuels dataset and gained a few insights. 
+- Gained the intuition about the dataset by plotting various graphs.
+
+    ![Countries](./assets/countries.png)
