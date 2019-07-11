@@ -72,3 +72,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Gained the intuition about the dataset by plotting various graphs.
 
     ![Countries](./assets/countries.png)
+
+### Day 14 - Thursday, 11th July
+- Started the day of with this week's #sg_applied_dl group project: Dog [Breed Identification](https://www.kaggle.com/c/dog-breed-identification) competition on Kaggle. My Kaggle kernel: https://www.kaggle.com/ronitmankad/let-s-classify-dog-breeds/notebook
+- Did some research on what ML models can I apply on the CO2 emissions dataset.
+- Learned a lot about *Seaborn* and *Plotly* by doing these projects.
