@@ -77,3 +77,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started the day of with this week's #sg_applied_dl group project: Dog [Breed Identification](https://www.kaggle.com/c/dog-breed-identification) competition on Kaggle. My Kaggle kernel: https://www.kaggle.com/ronitmankad/let-s-classify-dog-breeds/notebook
 - Did some research on what ML models can I apply on the CO2 emissions dataset.
 - Learned a lot about *Seaborn* and *Plotly* by doing these projects.
+
+### Day 15 - Friday, 12th July
+- Spent the day solving the #sg_applied_dl weekly hackathon project - [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) competition on Kaggle. My Kaggle kernel: https://www.kaggle.com/ronitmankad/let-s-classify-dog-breeds
+
+- Created a custom dataset using by subclassing *torch.utils.dataset.Dataset* module and transformed the dataframe so that it could be fed into the classifier.
