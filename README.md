@@ -55,6 +55,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - **Finally Completed the Course** 🦓 :fire:
 
+---
 ### Day 6 - Tuesday, 2nd July
 
 - Read this article [Federated Learning for Medical Imaging](https://www.intel.ai/federated-learning-for-medical-imaging/#gs.mayzfj).
