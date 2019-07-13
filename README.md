@@ -82,3 +82,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Spent the day solving the #sg_applied_dl weekly hackathon project - [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification) competition on Kaggle. My Kaggle kernel: https://www.kaggle.com/ronitmankad/let-s-classify-dog-breeds
 
 - Created a custom dataset using by subclassing *torch.utils.dataset.Dataset* module and transformed the dataframe so that it could be fed into the classifier.
+
+### Day 16 - Saturday, 13th July
+
+- Started the #sg_hackathon-orgnizrs weekly hackathon: [Hackathon Blossom (Flower Classification)](https://www.kaggle.com/spaics/hackathon-blossom-flower-classification).
+
+- Developed a processing pipeline for the dataset as well as explored its features through visualization.
+![Flowars](./assets/flowers.png)
