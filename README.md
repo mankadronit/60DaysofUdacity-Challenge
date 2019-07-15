@@ -15,8 +15,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | :------------: | ------------ | :------------: |
 | 1 | Implementing Differential Privacy on the MNIST Dataset and performing PATE Analysis on the Model | Before the Challenge |
 | 2 | Published an article on Medium for the above project. | Before the Challenge |
-| 3 | Dog Breed Identification | Working |
-| 4 | Hackathon Blossom (Flower Classification) | Working |
+| 3 | Hackathon Blossom (Flower Classification) | Day 17 |
 
 ---
 ## Timeline :point_down:
@@ -269,4 +268,12 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Fine tuned the model and cleaned up the code so that it can be submitted for evaluation.
 - Learned quite a lot about hyperparameter optimization and transfer learning while doing this hackathon.
 - I would like to encourage all the paticipants: @Helena Barmer @Abhishek Lalwani @sourav kumar @Jess @Shahana @Vikas Sharma @Shanmugapriya @Ruchika Khemka @Naas Mohamed @Deepak @Shubhangi Jena @par @Droid @KT  @Francesca @Jaffar @Aniket Thomas @Vebby @Archit  @Halwai Aftab Hasan @Shivam Raisharma @Hitoishi Das @cibaca   @Shashank Jain @Nirupama Singh  @Perez Ogayo @shivu @Anita Goldpergel @Ivy
+---
+
+### Day 18 - Monday, 15th July
+
+- Finally submitted my kernel for Hackathon Blossom. Thank you to all the organizers in #sg_hackathon-orgnizrs. My Kernel link: https://www.kaggle.com/ronitmankad/flower-classification-using-pytorch
+
+- Started reading Hands On Machine Learning with ScikitLearn and Tensorflow.
+
 ---
