@@ -145,3 +145,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started reading Hands On Machine Learning with ScikitLearn and Tensorflow.
 
 ---
+
+### Day 19 - Tuesday, 16th July
+- Started Chapter 3: Classification of the Hands on ML book.
+- Learned about _precision_ and _recall_ and the ROC curve.
+---
