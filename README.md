@@ -150,3 +150,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started Chapter 3: Classification of the Hands on ML book.
 - Learned about _precision_ and _recall_ and the ROC curve.
 ---
+### Day 20 - Wednesday, 17th July
+- Kept on reading Ch 3 Classification of the Hands-On-ML book.
+- Learned about _Error Analysis_ in classification.
+- Read about *Multilabel* and *Multioutput classification*.
+---
