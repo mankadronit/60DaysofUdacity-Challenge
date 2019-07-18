@@ -155,3 +155,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned about _Error Analysis_ in classification.
 - Read about *Multilabel* and *Multioutput classification*.
 ---
+
+### Day 21 - Thursday, 18th July
+- Read about Sentiment Analysis in Coded Mixed Language (specifically Hindi-English) from [this](https://arxiv.org/abs/1804.00806) paper.
+- Brushed up on text processing and NLP basics for an interview.
+---
