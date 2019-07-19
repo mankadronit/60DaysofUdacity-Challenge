@@ -160,3 +160,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read about Sentiment Analysis in Coded Mixed Language (specifically Hindi-English) from [this](https://arxiv.org/abs/1804.00806) paper.
 - Brushed up on text processing and NLP basics for an interview.
 ---
+
+### Day 22 - Friday, 19th July
+- Learned more about the mathematical notations in machine learning.
+- Read up on Random Variables and Unbiased Estimators.
+- Researched about sentence similarity prediction.
+---
