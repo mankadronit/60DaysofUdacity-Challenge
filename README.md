@@ -166,3 +166,14 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read up on Random Variables and Unbiased Estimators.
 - Researched about sentence similarity prediction.
 ---
+
+### Day 23 - Saturday, 20th July
+- Started the #sg_hackathon-orgnizrs weekly Hackathon - Auto_Matic! 
+- Explored the dataset and created a data processing pipeline.
+- Will now create different models and try to increase the accuracy.
+---
+### Day 24 - Sunday, 21st July
+- Testing different models on the dataset for the hackathon.
+- Trying to improve the validation and testing accuracy.
+- Will try more image augmentation techniques.
+---
