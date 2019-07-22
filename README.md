@@ -17,6 +17,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | 1 | Implementing Differential Privacy on the MNIST Dataset and performing PATE Analysis on the Model | Before the Challenge |
 | 2 | Published an article on Medium for the above project. | Before the Challenge |
 | 3 | Hackathon Blossom (Flower Classification) | Day 17 |
+|4| Hackathon Auto_Matic (Car Classification) |Day 25|
 
 ---
 ## Timeline :point_down:
@@ -176,4 +177,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Testing different models on the dataset for the hackathon.
 - Trying to improve the validation and testing accuracy.
 - Will try more image augmentation techniques.
+---
+
+### Day 25 - Monday, 22nd July
+- Completed #sg_hackathon-orgnizrs Hackathon Auto_Matic (even though my model's accuracy was very low).
+- Kaggle Kernel Link: https://www.kaggle.com/ronitmankad/ronit-mankad-auto-matic
+- Continued reading the 100 page ML book, read about Decision Tree classifiers.
 ---
