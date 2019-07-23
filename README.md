@@ -184,3 +184,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Kaggle Kernel Link: https://www.kaggle.com/ronitmankad/ronit-mankad-auto-matic
 - Continued reading the 100 page ML book, read about Decision Tree classifiers.
 ---
+
+### Day 26 - Tuesday, 23 July
+- Continued reading the 100 Page ML book, learned more about Decision Trees and SVMs.
+---
