@@ -188,3 +188,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ### Day 26 - Tuesday, 23 July
 - Continued reading the 100 Page ML book, learned more about Decision Trees and SVMs.
 ---
+
+### Day 27 - Wednesday, 24th July
+- Worked on the hackathon Auto_matic dataset and tried to learn from my mistakes.
+- Completed the Decision Trees chapter and implemented Linear Regression, SVM and a Decision Tree in Python from scratch.
+---
