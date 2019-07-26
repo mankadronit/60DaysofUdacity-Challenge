@@ -199,3 +199,11 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started learning K Nearest Neighbors.
 - Started learning the different implementations of sentiment analysis for the next #sg_hackathon-orgnizrs Hackathon.
 ---
+
+### Day 29 - Friday, 26th July
+- Read two papers on Sentiment Analysis on Code Mixed languages (for an interview I have).
+![Paper](./assets/paper.png)
+- Explored and processed a text dataset containing Hindi-English mixed tweets.
+- Developed an embedding matrix for the data using Glove Embeddings.
+![Plot](./assets/plot.png)
+---
