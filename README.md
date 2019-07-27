@@ -18,6 +18,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | 2 | Published an article on Medium for the above project. | Before the Challenge |
 | 3 | Hackathon Blossom (Flower Classification) | Day 17 |
 |4| Hackathon Auto_Matic (Car Classification) |Day 25|
+|5| Hackathon Sentimento (Sentiment Classification) |Day 30|
 
 ---
 ## Timeline :point_down:
@@ -206,4 +207,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Explored and processed a text dataset containing Hindi-English mixed tweets.
 - Developed an embedding matrix for the data using Glove Embeddings.
 ![Plot](./assets/plot.png)
+---
+
+### Day 30 - Saturday, 27th July
+- Worked on Sentiment Analysis in Code Mixed language.
+- Developed a Sub-Word RNN.
+- Also started Hackathon Sentimento! All the best to all the participants.
 ---
