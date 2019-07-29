@@ -18,7 +18,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | 2 | Published an article on Medium for the above project. | Before the Challenge |
 | 3 | Hackathon Blossom (Flower Classification) | Day 17 |
 |4| Hackathon Auto_Matic (Car Classification) |Day 25|
-|5| Hackathon Sentimento (Sentiment Classification) |Day 30|
+|5| Hackathon Sentimento (Sentiment Classification) |Day 32|
 
 ---
 ## Timeline :point_down:
@@ -213,4 +213,16 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Worked on Sentiment Analysis in Code Mixed language.
 - Developed a Sub-Word RNN.
 - Also started Hackathon Sentimento! All the best to all the participants.
+---
+
+### Day 31 - Sunday, 28th July
+- Worked on the Sentiment Classification Hackathon Sentimento. 
+- Tried on different pre-processing techniques and different models on the dataset.
+
+---
+
+### Day 32 - Monday, 29th July
+- Completed Hackathon Sentimento!
+- Learned a lot about TFIDF and text preprocessing.
+- Scored 0.89 on the leaderboard.
 ---
