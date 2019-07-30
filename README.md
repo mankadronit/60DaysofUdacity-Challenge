@@ -226,3 +226,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned a lot about TFIDF and text preprocessing.
 - Scored 0.89 on the leaderboard.
 ---
+
+### Day 33 - Tuesday, 30th July 
+- Read more about K Nearest Neighbours from the 100 Page ML book. 
+- Also stareted reading about featuring engineering.
+---
