@@ -231,3 +231,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read more about K Nearest Neighbours from the 100 Page ML book. 
 - Also stareted reading about featuring engineering.
 ---
+
+### Day 34 - Wednesday, 31st July 
+- Completed the KNN chapter from the 100 Page ML book.
+- Implemented Decision Tree and visualized it's nodes by follwing this tutorial - https://mlcourse.ai/articles/topic3-dt-knn/
+- Read this Medium Article - https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da
+---
