@@ -237,3 +237,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Implemented Decision Tree and visualized it's nodes by follwing this tutorial - https://mlcourse.ai/articles/topic3-dt-knn/
 - Read this Medium Article - https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da
 ---
+
+### Day 35 - Thursday, 1st August 
+- Read and implemented this excellent Jupyter Notebook - https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/
+- Completed implementing the Decision Tree code.
+![Tree](./assets/tree.png)
+- Started the IEEE-CIS Fraud Detection competition on Kaggle - https://www.kaggle.com/c/ieee-fraud-detection
+---
