@@ -244,3 +244,14 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ![Tree](./assets/tree.png)
 - Started the IEEE-CIS Fraud Detection competition on Kaggle - https://www.kaggle.com/c/ieee-fraud-detection
 ---
+ ### Day 36 - Friday, 2nd August
+ - Learned about Ordinary Least Squares, Maximum Likelihood Estimation and Bias-Variance Decomposition from this excellent tutorial - https://mlcourse.ai/articles/topic4-part1-linreg/
+
+ - Won the gold badge for Hackathon Sentimento! Thanks to all the good people at #sg_hackathon-orgnizrs
+ ![Gold](./assets/gold.png)
+ ![Winner](./assets/Winner.jpg)
+
+ - Created a new Kernel for my winning solution for Hackathon Sentimento - https://www.kaggle.com/ronitmankad/sentiment-analysis-eda-and-model-creation
+
+- Started exploring the dataset for the IEEE-Fraud Detection competition on Kaggle.
+---
