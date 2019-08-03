@@ -255,3 +255,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Started exploring the dataset for the IEEE-Fraud Detection competition on Kaggle.
 ---
+
+### Day 37 - Saturday, 3rd August
+- Started the #sg_hackathon-orgnizrs weekly hackathon - Hackathon Sentimento-2.
+- Created a kaggle kernel and started working on the dataset.
+---
