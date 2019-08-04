@@ -19,7 +19,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | 3 | Hackathon Blossom (Flower Classification) | Day 17 |
 |4| Hackathon Auto_Matic (Car Classification) |Day 25|
 |5| Hackathon Sentimento (Sentiment Classification) |Day 32|
-
+|6| Hackathon Sentimento-V2 |Ongoing|
 ---
 ## Timeline :point_down:
 ### Day 1 -  Thursday, 27th June
@@ -259,4 +259,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ### Day 37 - Saturday, 3rd August
 - Started the #sg_hackathon-orgnizrs weekly hackathon - Hackathon Sentimento-2.
 - Created a kaggle kernel and started working on the dataset.
+---
+
+### Day 38 - Sunday, 4th August
+- Learned more about RNNs, LSTMs and GRUs for Sentiment Classification.
+- Also learned more about Google's BERT by watching this video https://www.youtube.com/watch?v=BaPM47hO8p8
+- Learned the basics of _torchtext_ and started making a torch dataset for the hackathon data.
 ---
