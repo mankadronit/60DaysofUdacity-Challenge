@@ -266,3 +266,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Also learned more about Google's BERT by watching this video https://www.youtube.com/watch?v=BaPM47hO8p8
 - Learned the basics of _torchtext_ and started making a torch dataset for the hackathon data.
 ---
+
+### Day 39 - Monday, 5th August
+- Learned about Attention layers.
+- Fine-Tuned a BERT model on Colab (P.S: Even on Colab each epoch takes hours).
+- Worked on my kernel for Hackathon Sentimento. 
+---
