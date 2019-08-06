@@ -272,3 +272,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Fine-Tuned a BERT model on Colab (P.S: Even on Colab each epoch takes hours).
 - Worked on my kernel for Hackathon Sentimento. 
 ---
+
+### Day 40 - Tuesday, 6th August 
+- Worked some more on Hackathon Sentimento-V2.
+- Implemented a GRU with Adaptive pooling into my kernel.
+- Also implemented the BERT model on dataset, but it didn't perform well.
+- Read about encoders and transformers in Neural Networks.
+---
