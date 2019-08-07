@@ -279,3 +279,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Also implemented the BERT model on dataset, but it didn't perform well.
 - Read about encoders and transformers in Neural Networks.
 ---
+
+### Day 41 - Wednesday, 7th August
+- Learned about Sklearn pipelines.
+- Started reading about XGBoost.
+- Worked some more on the Hackathon Sentimento kernel.
+---
