@@ -290,3 +290,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Submitted my kernel for hackathon Sentimento-V2 - https://www.kaggle.com/ronitmankad/sentiment-analysis-bert-pytorch
 - Learned about feature engineering and data imputation techniques from the 100 Page ML book.
 ---
+
+### Day 43 - Friday, 9th August
+- Learned about LSTMS and GRUs in detail from this video - https://www.youtube.com/watch?v=8HyCNIVRbSU
+- Learned about the vanishing and exploding gradient problem by watching this video - https://www.youtube.com/watch?v=qO_NLVjD6zE
+- Read on why Character Level RNNs/LSTMS can be better for text classification/generation in some cases from this blog post - https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10
+---
