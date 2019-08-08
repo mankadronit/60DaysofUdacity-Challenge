@@ -19,7 +19,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 | 3 | Hackathon Blossom (Flower Classification) | Day 17 |
 |4| Hackathon Auto_Matic (Car Classification) |Day 25|
 |5| Hackathon Sentimento (Sentiment Classification) |Day 32|
-|6| Hackathon Sentimento-V2 |Ongoing|
+|6| Hackathon Sentimento-V2 |Day 42|
 ---
 ## Timeline :point_down:
 ### Day 1 -  Thursday, 27th June
@@ -284,4 +284,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned about Sklearn pipelines.
 - Started reading about XGBoost.
 - Worked some more on the Hackathon Sentimento kernel.
+--- 
+
+### Day 42 - Thursday, 8th August
+- Submitted my kernel for hackathon Sentimento-V2 - https://www.kaggle.com/ronitmankad/sentiment-analysis-bert-pytorch
+- Learned about feature engineering and data imputation techniques from the 100 Page ML book.
 ---
