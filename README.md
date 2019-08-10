@@ -296,3 +296,11 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned about the vanishing and exploding gradient problem by watching this video - https://www.youtube.com/watch?v=qO_NLVjD6zE
 - Read on why Character Level RNNs/LSTMS can be better for text classification/generation in some cases from this blog post - https://towardsdatascience.com/besides-word-embedding-why-you-need-to-know-character-embedding-6096a34a3b10
 ---
+
+### Day 44 - Saturday, 10th August
+- Got 3rd place in Hackathon Sentimento-V2! Thank you to all the wonderful people at #sg_hackathon-orgnizrs. 
+![Bronze](./assets/sentimento2.png)
+- Started working on Hackathon Forcast!
+- Started learning about time forecasting and Seq2Seq models.
+- Learned about the data and forecasting approach by reading this artilce - https://towardsdatascience.com/web-traffic-forecasting-f6152ca240cb
+---
