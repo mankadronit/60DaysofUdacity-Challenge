@@ -304,3 +304,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Started learning about time forecasting and Seq2Seq models.
 - Learned about the data and forecasting approach by reading this artilce - https://towardsdatascience.com/web-traffic-forecasting-f6152ca240cb
 ---
+
+### Day 45 - Sunday, 11th August
+- Finally submitted the initial version of my kernel for Hackathon Forcast.
+- Learned a lot about time series forecasting.
+- Learned about Stationary and Non-Stationary series by reading this article - https://towardsdatascience.com/basic-principles-to-create-a-time-series-forecast-6ae002d177a4.
+- Learned more about Seq2Seq model and how to preprocess the data for them.
+---
