@@ -311,3 +311,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned about Stationary and Non-Stationary series by reading this article - https://towardsdatascience.com/basic-principles-to-create-a-time-series-forecast-6ae002d177a4.
 - Learned more about Seq2Seq model and how to preprocess the data for them.
 ---
+
+### Day 46 - Monday, 12th August
+- Read more about time series forecasting and different transformations required on the data.
+- Transformed the data from a non-stationary series to a stationary series.
+- Tried to recreate a Keras Seq2Seq model in Pytorch.
+- Viewed more solutions on Kaggle and made notes on the different approaches used by the winners.
+---
