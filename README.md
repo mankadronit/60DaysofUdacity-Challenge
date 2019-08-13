@@ -318,3 +318,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Tried to recreate a Keras Seq2Seq model in Pytorch.
 - Viewed more solutions on Kaggle and made notes on the different approaches used by the winners.
 ---
+
+### Day 47 - Tuesday, 13th August
+- Performed some data analysis on the Hackathon Forcast data and gained key insights from it.
+- Fine-tuned my LSTM model.
+- Increased the accuracy by taking Median of Medians.
+---
