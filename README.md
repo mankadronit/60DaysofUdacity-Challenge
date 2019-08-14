@@ -324,3 +324,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Fine-tuned my LSTM model.
 - Increased the accuracy by taking Median of Medians.
 ---
+
+### Day 48 - Wednesday, 14th August
+- Got my first internship as a Machine Learning Engineer!
+- Read an article on how to implement Sentiment Analysis in production - https://mc.ai/deep-learning-in-production-sentiment-analysis-with-the-transformer-model/
+- Read Google's guide to text classification - https://developers.google.com/machine-learning/guides/text-classification/
+- Researched about Transfer Deep Learning in NLP tasks.
+---
