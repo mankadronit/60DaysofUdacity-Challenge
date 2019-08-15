@@ -331,3 +331,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read Google's guide to text classification - https://developers.google.com/machine-learning/guides/text-classification/
 - Researched about Transfer Deep Learning in NLP tasks.
 ---
+
+### Day 49 - Thursday, 15th August
+- Working on a sentiment analysis task, imported the data from 4000 csv files and merged the data into a single dataframe.
+- Cleaned the data by removing punctuations and stopwords.
+- Read a paper on Semi-Supervised Learning - https://pdfs.semanticscholar.org/4224/2edf4204c8a739f8f016405d0804e6c8f409.pdf
+---
