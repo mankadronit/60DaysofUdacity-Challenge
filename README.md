@@ -337,3 +337,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Cleaned the data by removing punctuations and stopwords.
 - Read a paper on Semi-Supervised Learning - https://pdfs.semanticscholar.org/4224/2edf4204c8a739f8f016405d0804e6c8f409.pdf
 ---
+
+### Day 50 - Friday, 16th August
+- Implemented the Semi-Supervised Learning paper's methodoloy on my sentiment dataset.
+- Created and finetuned a Sub-Word RNN as described in the paper here - https://arxiv.org/pdf/1611.00472.pdf
+- Learned about Latent Dirichlet Allocation (LDA Analysis) for NLP - https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
+---
