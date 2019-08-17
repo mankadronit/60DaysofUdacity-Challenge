@@ -343,3 +343,8 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Created and finetuned a Sub-Word RNN as described in the paper here - https://arxiv.org/pdf/1611.00472.pdf
 - Learned about Latent Dirichlet Allocation (LDA Analysis) for NLP - https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation
 ---
+
+### Day 51 - Saturday, 17th August
+- Trained a KNN Classifier and augmented it's predictions with my LSTM predictions to then perform semi-supervised learning on my data.
+- Went through all the tutorials for Syft and revised the core concepts - https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
+---
