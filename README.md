@@ -348,3 +348,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Trained a KNN Classifier and augmented it's predictions with my LSTM predictions to then perform semi-supervised learning on my data.
 - Went through all the tutorials for Syft and revised the core concepts - https://github.com/OpenMined/PySyft/tree/master/examples/tutorials
 ---
+
+### Day 52 - Sunday, 18th August
+
+- Started working on my project for the Project Showcase challenge.
+- Created PySyft's private dataloaders for the data.
+- Read more about encrypted deep learning and brushed up on the basics of fixed predicion encoding.
+---
