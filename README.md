@@ -355,3 +355,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Created PySyft's private dataloaders for the data.
 - Read more about encrypted deep learning and brushed up on the basics of fixed predicion encoding.
 ---
+
+### Day 53 - Monday, 19th August
+
+- Completing my project for the Project Showcase Challenge
+- Made a README file explaining the project.
+- Followed the PySyft tutorial on performing encry on MNIST - https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%2012%20bis%20-%20Encrypted%20Training%20on%20MNIST.ipynb
+---
