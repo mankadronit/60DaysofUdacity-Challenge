@@ -370,5 +370,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Achieved ~94% accuracy on the validation set using a Sub-Word level RNN.
 
+![ACC](./assets/modelacc.png)
+
 - Read up on Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features https://aclweb.org/anthology/N18-1049
 ---
