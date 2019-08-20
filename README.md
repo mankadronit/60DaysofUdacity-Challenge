@@ -362,3 +362,13 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Made a README file explaining the project.
 - Followed the PySyft tutorial on performing encry on MNIST - https://github.com/OpenMined/PySyft/blob/dev/examples/tutorials/Part%2012%20bis%20-%20Encrypted%20Training%20on%20MNIST.ipynb
 ---
+
+### Day 54 - Tuesday, 20th August
+- Finally submitted my project for the Project Showcase Challenge!! Here's the project repo - https://github.com/aksht94/UdacityOpenSource/tree/master/Ronit
+
+- Resumed my Sentiment Analysis in Code-Mixed language project.
+
+- Achieved ~94% accuracy on the validation set using a Sub-Word level RNN.
+
+- Read up on Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features https://aclweb.org/anthology/N18-1049
+---
