@@ -374,3 +374,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 
 - Read up on Unsupervised Learning of Sentence Embeddings using Compositional n-Gram Features https://aclweb.org/anthology/N18-1049
 ---
+
+### Day 55 - Wednesday, 21st August
+- Resumed reading the 100 Page ML book. 
+- Read about Regularization and Model Performance Evaluation in detail.
+- Read about Sentiment Analysis on Conversational Texts - https://www.aclweb.org/anthology/W15-1829
+---
