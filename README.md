@@ -380,3 +380,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read about Regularization and Model Performance Evaluation in detail.
 - Read about Sentiment Analysis on Conversational Texts - https://www.aclweb.org/anthology/W15-1829
 ---
+
+### Day 56 - Thursday, 22nd August
+- Read from the 100 Page ML book - Multi Layer Perceptron and Neural Network Architecture.
+- Came across this amazing blogpost - https://rsilveira79.github.io/fermenting_gradients/machine_learning/nlp/pytorch/text_classification_roberta/
+- Started the code for implementing text classification using RoBERTa on my code-mixed language dataset.
+--- 
