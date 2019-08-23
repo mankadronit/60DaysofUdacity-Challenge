@@ -386,3 +386,9 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Came across this amazing blogpost - https://rsilveira79.github.io/fermenting_gradients/machine_learning/nlp/pytorch/text_classification_roberta/
 - Started the code for implementing text classification using RoBERTa on my code-mixed language dataset.
 --- 
+
+### Day 57 - Friday, 23rd August
+- Learned Kernel Regression and Gradient Boosting from the 100 Page ML book.
+- Read this amazing paper - https://eprint.iacr.org/2018/1056.pdf
+- Still finetuning the BERT model and trying different preprocessing techniques on my Code-Mixed language dataset.
+---
