@@ -103,7 +103,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ---
 
 ### Day 13 - Wednesday, 10th July
-- Played with the CO2 emissions from Fossil Fuels dataset and gained a few insights. 
+- Played with the CO2 emissions from Fossil Fuels dataset and gained a few insights.
 - Gained the intuition about the dataset by plotting various graphs.
 
     ![Countries](./assets/countries.png)
@@ -170,7 +170,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ---
 
 ### Day 23 - Saturday, 20th July
-- Started the #sg_hackathon-orgnizrs weekly Hackathon - Auto_Matic! 
+- Started the #sg_hackathon-orgnizrs weekly Hackathon - Auto_Matic!
 - Explored the dataset and created a data processing pipeline.
 - Will now create different models and try to increase the accuracy.
 ---
@@ -216,7 +216,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ---
 
 ### Day 31 - Sunday, 28th July
-- Worked on the Sentiment Classification Hackathon Sentimento. 
+- Worked on the Sentiment Classification Hackathon Sentimento.
 - Tried on different pre-processing techniques and different models on the dataset.
 
 ---
@@ -227,18 +227,18 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Scored 0.89 on the leaderboard.
 ---
 
-### Day 33 - Tuesday, 30th July 
-- Read more about K Nearest Neighbours from the 100 Page ML book. 
+### Day 33 - Tuesday, 30th July
+- Read more about K Nearest Neighbours from the 100 Page ML book.
 - Also stareted reading about featuring engineering.
 ---
 
-### Day 34 - Wednesday, 31st July 
+### Day 34 - Wednesday, 31st July
 - Completed the KNN chapter from the 100 Page ML book.
 - Implemented Decision Tree and visualized it's nodes by follwing this tutorial - https://mlcourse.ai/articles/topic3-dt-knn/
 - Read this Medium Article - https://towardsdatascience.com/how-to-farm-kaggle-in-the-right-way-b27f781b78da
 ---
 
-### Day 35 - Thursday, 1st August 
+### Day 35 - Thursday, 1st August
 - Read and implemented this excellent Jupyter Notebook - https://mlcourse.ai/articles/topic2-visual-data-analysis-in-python/
 - Completed implementing the Decision Tree code.
 ![Tree](./assets/tree.png)
@@ -270,10 +270,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ### Day 39 - Monday, 5th August
 - Learned about Attention layers.
 - Fine-Tuned a BERT model on Colab (P.S: Even on Colab each epoch takes hours).
-- Worked on my kernel for Hackathon Sentimento. 
+- Worked on my kernel for Hackathon Sentimento.
 ---
 
-### Day 40 - Tuesday, 6th August 
+### Day 40 - Tuesday, 6th August
 - Worked some more on Hackathon Sentimento-V2.
 - Implemented a GRU with Adaptive pooling into my kernel.
 - Also implemented the BERT model on dataset, but it didn't perform well.
@@ -284,7 +284,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learned about Sklearn pipelines.
 - Started reading about XGBoost.
 - Worked some more on the Hackathon Sentimento kernel.
---- 
+---
 
 ### Day 42 - Thursday, 8th August
 - Submitted my kernel for hackathon Sentimento-V2 - https://www.kaggle.com/ronitmankad/sentiment-analysis-bert-pytorch
@@ -298,7 +298,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ---
 
 ### Day 44 - Saturday, 10th August
-- Got 3rd place in Hackathon Sentimento-V2! Thank you to all the wonderful people at #sg_hackathon-orgnizrs. 
+- Got 3rd place in Hackathon Sentimento-V2! Thank you to all the wonderful people at #sg_hackathon-orgnizrs.
 ![Bronze](./assets/sentimento2.png)
 - Started working on Hackathon Forcast!
 - Started learning about time forecasting and Seq2Seq models.
@@ -376,7 +376,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 ---
 
 ### Day 55 - Wednesday, 21st August
-- Resumed reading the 100 Page ML book. 
+- Resumed reading the 100 Page ML book.
 - Read about Regularization and Model Performance Evaluation in detail.
 - Read about Sentiment Analysis on Conversational Texts - https://www.aclweb.org/anthology/W15-1829
 ---
@@ -385,10 +385,17 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Read from the 100 Page ML book - Multi Layer Perceptron and Neural Network Architecture.
 - Came across this amazing blogpost - https://rsilveira79.github.io/fermenting_gradients/machine_learning/nlp/pytorch/text_classification_roberta/
 - Started the code for implementing text classification using RoBERTa on my code-mixed language dataset.
---- 
+---
 
 ### Day 57 - Friday, 23rd August
 - Learned Kernel Regression and Gradient Boosting from the 100 Page ML book.
 - Read this amazing paper - https://eprint.iacr.org/2018/1056.pdf
 - Still finetuning the BERT model and trying different preprocessing techniques on my Code-Mixed language dataset.
+---
+
+### Day 58 - Saturday, 24th August
+- Started Week 1 of Andrew Ng's Machine Learning course.
+- Forked PySyft and started reading it's source code.
+- Tried solving beginner level bugs in PySyft, trying to contribute to open source.
+- Read an article on Clustering - https://www.analyticsindiamag.com/most-popular-clustering-algorithms-used-in-machine-learning/
 ---
