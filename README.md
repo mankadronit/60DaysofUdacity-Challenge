@@ -399,3 +399,10 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Tried solving beginner level bugs in PySyft, trying to contribute to open source.
 - Read an article on Clustering - https://www.analyticsindiamag.com/most-popular-clustering-algorithms-used-in-machine-learning/
 ---
+
+### Day 59 - Sunday, 25th August
+- Completed Week 1 of Andrew Ng's Machine Learning course. Started Week 2.
+- Learning Regularized Linear Regression
+- Still learning more about PySyft by reading through it's codebase.
+- Worked on `syft.messaging` package and tried solving issue #2512 raised by Andrew Trask.
+---
