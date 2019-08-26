@@ -20,6 +20,7 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 |4| Hackathon Auto_Matic (Car Classification) |Day 25|
 |5| Hackathon Sentimento (Sentiment Classification) |Day 32|
 |6| Hackathon Sentimento-V2 |Day 42|
+|7| Project Showcase Challenge - Automated Essay Grading |Day 57|
 ---
 ## Timeline :point_down:
 ### Day 1 -  Thursday, 27th June
@@ -405,4 +406,11 @@ This repository tracks my day-to-day progress for the #60DaysOfUdacity challenge
 - Learning Regularized Linear Regression
 - Still learning more about PySyft by reading through it's codebase.
 - Worked on `syft.messaging` package and tried solving issue #2512 raised by Andrew Trask.
+---
+
+### Day 60 - Monday, 26th August
+**The Final Day!**
+- Completed Week 2 of Andrew Ng's Machine Learning course. Started Week 3.
+- Learning Hypothesis Representation and Advanced Optimization techniques.
+- Worked on PySyft source code. Removed the `sklearn` dependency from the source code.
 ---
